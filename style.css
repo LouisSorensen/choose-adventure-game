@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background: rgb(123, 22, 218);
+}
+
+.container {
+    background: rgb(247, 176, 33);
+    width: 90%;
+    max-width: 500px;
+    margin: 80px auto 0;
+    border-radius: 20px;
+    padding: 25px;
+}
